@@ -1,0 +1,10 @@
+<root>
+    <conference name='1'> 
+        <author>Bob</author>
+        <author>Nigel</author>
+    </conference>
+    <conference name='2'>
+        <author>Alice</author>
+        <author>Mary</author>
+    </conference>
+</root>

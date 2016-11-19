@@ -1,0 +1,1 @@
+http://www.saltycrane.com/blog/2011/07/example-parsing-xml-lxml-objectify/

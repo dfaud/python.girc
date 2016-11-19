@@ -1,0 +1,1852 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xml>
+  <DOCUMENT>
+	<UD_INTERLOCUTION>
+		<UDI-GROUPE>APICIL</UDI-GROUPE>
+		<UDI_DETAIL>
+			<UDI_EXPEDITEUR>
+				<UDI-EXPEDL1/>
+				<UDI-EXPEDL2>groupe Humanis</UDI-EXPEDL2>
+				<UDI-EXPEDL3>21 rue Roger Salengro</UDI-EXPEDL3>
+				<UDI-EXPEDL4>94137 Fontenay sous Bois Cedex</UDI-EXPEDL4>
+				<UDI-EXPEDL5/>
+				<UDI-EXPEDL6/>
+				<UDI-EXPEDL7/>
+			</UDI_EXPEDITEUR>
+			<UDI_CONTACT>
+				<UDI-CONTLIB1>Tél : </UDI-CONTLIB1>
+				<UDI-CONTVAL1>0 811 91 00 70 (coût d'un appel local)</UDI-CONTVAL1>
+				<UDI-CONTLIB2>Du lundi au vendredi de 8h30 à 18h00</UDI-CONTLIB2>
+				<UDI-CONTVAL2/>
+				<UDI-CONTLIB3>Email : </UDI-CONTLIB3>
+				<UDI-CONTVAL3>contactentreprise@humanis.com</UDI-CONTVAL3>
+				<UDI-CONTLIB4/>
+				<UDI-CONTVAL4/>
+				<UDI-CONTLIB5/>
+				<UDI-CONTVAL5/>
+				<UDI-CONTLIB6/>
+				<UDI-CONTVAL6/>
+				<UDI-CONTLIB7/>
+				<UDI-CONTVAL7/>
+			</UDI_CONTACT>
+			<UDI_REFERENCE>
+				<UDI-REFLIB1>Réf: </UDI-REFLIB1>
+				<UDI-REFVAL1>030006604000 005 00001 32</UDI-REFVAL1>
+				<UDI-REFLIB2/>
+				<UDI-REFVAL2/>
+				<UDI-REFLIB3/>
+				<UDI-REFVAL3/>
+			</UDI_REFERENCE>
+			<UDI_DESTINATAIRE>
+				<UDI-DESTL1>PARC GESTION SARL222222222</UDI-DESTL1>
+				<UDI-DESTL2>SERVICE RH</UDI-DESTL2>
+				<UDI-DESTL3/>
+				<UDI-DESTL4>10 ALL DE L ALOUETTE</UDI-DESTL4>
+				<UDI-DESTL5/>
+				<UDI-DESTL6>93420 VILLEPINTE</UDI-DESTL6>
+				<UDI-DESTL7/>
+			</UDI_DESTINATAIRE>
+			<UDI_LIEUDATE>
+				<UDI-LIEU>Paris</UDI-LIEU>
+				<UDI-DATE>20120730</UDI-DATE>
+			</UDI_LIEUDATE>
+			<UDI_PIEDPAGE>
+				<UDI-PPGL1>SANTE</UDI-PPGL1>
+				<UDI-PPGL2>PREVOYANCE</UDI-PPGL2>
+				<UDI-PPGL3>RETRAITE</UDI-PPGL3>
+				<UDI-PPGL4>EPARGNES</UDI-PPGL4>
+				<UDI-PPDL1>Siège social du groupe</UDI-PPDL1>
+				<UDI-PPDL2>7 rue Magdebourg</UDI-PPDL2>
+				<UDI-PPDL3>75116 Paris</UDI-PPDL3>
+				<UDI-PPDL4>www.humanis.com</UDI-PPDL4>
+				<UDI-REGIME>G</UDI-REGIME>
+			</UDI_PIEDPAGE>
+		</UDI_DETAIL>
+	</UD_INTERLOCUTION>
+	<UD_TECHNIQUE>
+		<UDT_WORKFLOW>
+			<UDT-MODEDECLENCHEMENT>PULL</UDT-MODEDECLENCHEMENT>
+			<UDT-PERSONNALISATION/>
+			<UDT-DESTINATION/>
+			<UDT-IDWF>X_WFT_DD_CEN</UDT-IDWF>
+			<UDT-IDECHANTILLONNAGE/>
+			<UDT-GROUPEVISU/>
+			<UDT-NOMPROJETARCHIVE>NOVALISTAITBOUT</UDT-NOMPROJETARCHIVE>
+			<UDT-ENTITEGEST/>
+		</UDT_WORKFLOW>
+		<UDT_PROPRIETEDOC>
+			<UDT-IDDOC>PULLVDTZ4NWS020620151638020000</UDT-IDDOC>
+			<UDT-POIDSDOC>1</UDT-POIDSDOC>
+			<UDT-LIBELLEDOC>ERCFT001</UDT-LIBELLEDOC>
+			<UDT-LIBELLEPLI>Courrier interactif démo</UDT-LIBELLEPLI>
+			<UDT-IDDEST/>
+			<UDT-IDCLIENT/>
+			<UDT-NOMDEST>XXXXXXXXX</UDT-NOMDEST>
+			<UDT-NOMCLIENT>YYYYYYYYYYYYYY</UDT-NOMCLIENT>
+			<UDT-NUMPAGE/>
+			<UDT-ZTEMDP1/>
+			<UDT-ZTEMDP2/>
+			<UDT-ZTEMDP3/>
+			<UDT-ZTEMDP4/>
+			<UDT-ZTEMDP5/>
+		</UDT_PROPRIETEDOC>
+		<UDT_TRE>
+			<UDT-CLIENT/>
+			<UDT-MODETRAITEMENT>PULL</UDT-MODETRAITEMENT>
+			<UDT-CHAINEDISTRIBUTION>X-R</UDT-CHAINEDISTRIBUTION>
+			<UDT-USER>USER</UDT-USER>
+			<UDT-TRAITEMENT>USER</UDT-TRAITEMENT>
+			<UDT-MODELE>ERCFT001</UDT-MODELE>
+			<UDT-IDSERVICE/>
+			<UDT-LIBELLESERVICE/>
+			<UDT-LOT>PULLVDTZ4NWS020620151638020000</UDT-LOT>
+			<UDT-IDPLI>PULLVDTZ4NWS020620151638020000</UDT-IDPLI>
+			<UDT-NOORDREPLI>1</UDT-NOORDREPLI>
+			<UDT-CDPOSTAL/>
+			<UDT-CDPAYS/>
+			<UDT-PROPBAN1/>
+			<UDT-PROPBAN2/>
+			<UDT-PROPBAN3/>
+			<UDT-PROPBAN4/>
+			<UDT-PROPBAN5/>
+			<UDT-IDFICHIER/>
+			<UDT-CONTEXTE/>
+			<UDT-PERIMETRE/>
+			<UDT-CDAFFRANCHISSEMENT/>
+			<UDT-URORIGINE/>
+			<UDT-TYPEGESTION/>
+		</UDT_TRE>
+		<UDT_POSTE>
+			<UDT-NODOSSIER/>
+			<UDT-INFOPND/>
+			<UDT-ISLLAD1>HUMANIS</UDT-ISLLAD1>
+			<UDT-ISLLAD2>v ffffffffffff</UDT-ISLLAD2>
+			<UDT-ISLLAD3>vvvvvvvvvvvvv</UDT-ISLLAD3>
+			<UDT-ISLLAD4/>
+			<UDT-ISLLAD5/>
+			<UDT-ISLLAD6>75001 paris</UDT-ISLLAD6>
+			<UDT-ISLLAD7/>
+		</UDT_POSTE>
+		<UDT_FILIERES>
+			<UDT-FILIERE1>CNIHQUO</UDT-FILIERE1>
+			<UDT-FILIERE2/>
+			<UDT-FILIERE3/>
+			<UDT-FILIERE4/>
+		</UDT_FILIERES>
+		<UDT_IMPDEP>
+			<UDT-IMPRIMANTE/>
+			<UDT-SERVEUR/>
+			<UDT-NBEXEMPLAIRE/>
+			<UDT-SOURCEIMP/>
+		</UDT_IMPDEP>
+		<UDT_MAIL>
+			<UDT-EDITIONCORPS/>
+			<UDT-ADRFROM/>
+			<UDT-ADRTO/>
+			<UDT-ADRCC/>
+			<UDT-ADRCCC/>
+			<UDT-VARMAIL1/>
+			<UDT-VARMAIL2/>
+			<UDT-VARMAIL3/>
+			<UDT-VARMAIL4/>
+			<UDT-VARMAIL5/>
+		</UDT_MAIL>
+		<UDT_GED>
+			<UDT-MODGED/>
+			<UDT-DOMGED/>
+			<UDT-IDGED1/>
+			<UDT-IDGED2/>
+			<UDT-IDGED3/>
+			<UDT-IDGED4/>
+			<UDT-IDGED5/>
+			<UDT-LIGNETECHGED/>
+			<UDT-DATAMATRIXGED/>
+		</UDT_GED>
+		<UDT_TRACABILITE>
+			<UDT-DOMAINE>interactif</UDT-DOMAINE>
+			<UDT-SERVICEKSL>service ksl</UDT-SERVICEKSL>
+			<UDT-GROUPENOTIFICATION>rhenriot@girc.agirc-arrco.fr</UDT-GROUPENOTIFICATION>
+			<UDT-DELAIDISTRIBUTION>1</UDT-DELAIDISTRIBUTION>
+			<UDT-DELAIPERSONNALISATION>1</UDT-DELAIPERSONNALISATION>
+			<UDT-DELAIVALIDATION>1</UDT-DELAIVALIDATION>
+			<UDT-DELAIGLOBAL>1</UDT-DELAIGLOBAL>
+		</UDT_TRACABILITE>
+	</UD_TECHNIQUE>
+	<UD_MAQUETTE>
+		<UDM_ASSISTGEST>
+			<UDM-ENT-NUM-INT>000276426</UDM-ENT-NUM-INT>
+			<UDM-ENT-NUM-EXT>961801313</UDM-ENT-NUM-EXT>
+			<UDM-ENT-RAISON-SOCIALE>ENTREPRISE AUDEMARD</UDM-ENT-RAISON-SOCIALE>
+			<UDM-IND-NUM-INT/>
+			<UDM-IND-NUM-EXT/>
+			<UDM-IND-CIV/>
+			<UDM-IND-PRN/>
+			<UDM-IND-NOM/>
+			<UDM-ADRL1>ENTREPRISE AUDEMARD</UDM-ADRL1>
+			<UDM-ADRL2/>
+			<UDM-ADRL3>LID RUE ZI 14EME RUE</UDM-ADRL3>
+			<UDM-ADRL4>1ERE AVENUE</UDM-ADRL4>
+			<UDM-ADRL5/>
+			<UDM-ADRL6>06510 CARROS</UDM-ADRL6>
+			<UDM-ADRL7/>
+			<UDM-IND-CPTBANQ/>
+			<UDM-IND-IBAN/>
+			<UDM-IND-BIC/>
+			<UDM-IND-DATNAIS/>
+			<UDM-IND-LIEUNAIS/>
+			<UDM-IND-DATDECES/>
+		</UDM_ASSISTGEST>
+		<UDM_DESTINATAIRE>
+			<UDM-DESTL1>HUMANIS</UDM-DESTL1>
+			<UDM-DESTL2>v ffffffffffff</UDM-DESTL2>
+			<UDM-DESTL3>vvvvvvvvvvvvv</UDM-DESTL3>
+			<UDM-DESTL4/>
+			<UDM-DESTL5/>
+			<UDM-DESTL6>75001 paris</UDM-DESTL6>
+			<UDM-DESTL7/>
+		</UDM_DESTINATAIRE>
+		<UDM_REFERENCE>
+			<UDM-REFLIB1>A voir : Entreprise</UDM-REFLIB1>
+			<UDM-REFVAL1/>
+			<UDM-REFLIB2/>
+			<UDM-REFVAL2/>
+			<UDM-REFLIB3/>
+			<UDM-REFVAL3/>
+		</UDM_REFERENCE>
+		<UDM_LIEUDATE>
+			<UDM-LIEU>Lyon</UDM-LIEU>
+			<UDM-DATE>20150602</UDM-DATE>
+		</UDM_LIEUDATE>
+		<UDM_SIGNATAIRE>
+			<UDM-SIGNATURE>nayenerp.jpg</UDM-SIGNATURE>
+			<UDM-SIGNATNOM>Gestionnaire Allocataires Retraite</UDM-SIGNATNOM>
+			<UDM-SIGNATFONC>V3V4REDUIT</UDM-SIGNATFONC>
+		</UDM_SIGNATAIRE>
+		<UDM_ADRETOUR>
+			<UDM-RETOURL1/>
+			<UDM-RETOURL2/>
+			<UDM-RETOURL3/>
+			<UDM-RETOURL4/>
+			<UDM-RETOURL5/>
+		</UDM_ADRETOUR>
+		<UDM_COMPLEMENT>
+			<UDM-CIVILITE>M</UDM-CIVILITE>
+			<UDM-COMPL1>GIE Humanis RCAS</UDM-COMPL1>
+			<UDM-COMPL2/>
+			<UDM-COMPL3/>
+		</UDM_COMPLEMENT>
+	</UD_MAQUETTE>
+    <METIER>
+      <en_tete>
+        <co_systeme_emetteur>A015</co_systeme_emetteur>
+        <co_contexte_emetteur>XX</co_contexte_emetteur>
+        <co_brique_emetteur>PRC</co_brique_emetteur>
+        <id_corresp>n°Flux</id_corresp>
+        <code_type_declenchement>B</code_type_declenchement>
+        <date_creation_corresp>20130809</date_creation_corresp>
+        <id_objet_RC>100008</id_objet_RC>
+        <id_client_interne_brique>457000326</id_client_interne_brique>
+        <id_client_externe>1,45055E+12</id_client_externe>
+        <code_type_objet_gestion>IND</code_type_objet_gestion>
+        <libelle_login_util>123456</libelle_login_util>
+        <id_document>n°Flux</id_document>
+        <id_modele_courrier>3a</id_modele_courrier>
+        <no_version_modele_courrier>v40</no_version_modele_courrier>
+        <no_ordre_enveloppe></no_ordre_enveloppe>
+      </en_tete>
+		<adresse_dest>
+			<civilite_dest>M.</civilite_dest>
+			<prenom_dest>PIERRE</prenom_dest>
+			<nom_dest>COUSSIE</nom_dest>
+			<raison_sociale_dest/>
+			<ligne_adresse1>M. PIERRE COUSSIE</ligne_adresse1>
+			<ligne_adresse2/>
+			<ligne_adresse3/>
+			<ligne_adresse4>42 AVENUE DU PANORAMA</ligne_adresse4>
+			<ligne_adresse5/>
+			<ligne_adresse6>91190 GIF SUR YVETTE</ligne_adresse6>
+			<ligne_adresse7>FRANCE</ligne_adresse7>
+			<code_postal>91190</code_postal>
+			<localite>GIF SUR YVETTE</localite>
+			<code_pays>FRANCE</code_pays>
+		</adresse_dest>
+		<entete_formulaire>
+			<date_edition>28 Juillet 2016</date_edition>
+			<NSSI_participant_entete>1560778622046</NSSI_participant_entete>
+			<identite_participant>COUSSIE PIERRE</identite_participant>
+			<objet_courrier>Demande de pièces justificatives</objet_courrier>
+			<objet_formulaire>Demande de pièces justificatives</objet_formulaire>
+			<ref_dossier_entete/>
+			<civilite_requerant>xMonsieurx</civilite_requerant>
+			<identite_complete_OD/>
+			<identite_beneficiaire/>
+			<indicateur_reversion/>
+		</entete_formulaire>
+      <adresse_beneficiare>
+        <ligne_adresse1_ben></ligne_adresse1_ben>
+        <ligne_adresse2_ben></ligne_adresse2_ben>
+        <ligne_adresse3_ben></ligne_adresse3_ben>
+        <ligne_adresse4_ben></ligne_adresse4_ben>
+        <ligne_adresse5_ben></ligne_adresse5_ben>
+        <ligne_adresse6_ben></ligne_adresse6_ben>
+        <ligne_adresse7_ben></ligne_adresse7_ben>
+        <code_postal_ben></code_postal_ben>
+        <localite_ben></localite_ben>
+        <code_pays_ben></code_pays_ben>
+        <email></email>
+        <telephone1></telephone1>
+        <telephone2></telephone2>
+      </adresse_beneficiare>
+      <adresse_retour>
+        <ligne_adresse1_ret></ligne_adresse1_ret>
+        <ligne_adresse2_ret></ligne_adresse2_ret>
+        <ligne_adresse3_ret></ligne_adresse3_ret>
+        <ligne_adresse4_ret></ligne_adresse4_ret>
+        <ligne_adresse5_ret></ligne_adresse5_ret>
+        <ligne_adresse6_ret></ligne_adresse6_ret>
+        <ligne_adresse7_ret></ligne_adresse7_ret>
+        <code_postal_ret></code_postal_ret>
+        <localite_ret></localite_ret>
+        <code_pays_ret></code_pays_ret>
+      </adresse_retour>
+      <beneficiaire>
+        <nom_beneficiaire></nom_beneficiaire>
+        <prenom_beneficiaire></prenom_beneficiaire>
+        <nom_mari_beneficiaire></nom_mari_beneficiaire>
+        <jour_naiss_beneficiaire></jour_naiss_beneficiaire>
+        <mois_naiss_beneficiaire></mois_naiss_beneficiaire>
+        <ann_naiss_beneficiaire></ann_naiss_beneficiaire>
+        <NSSI_beneficiaire></NSSI_beneficiaire>
+        <cle_NSSI_beneficiaire></cle_NSSI_beneficiaire>
+        <num_autre_regime_ben></num_autre_regime_ben>
+      </beneficiaire>
+		<dossier_participant>
+			<ref_dossier_participant>AA BBB</ref_dossier_participant>
+			<NSSI_participant_dossier></NSSI_participant_dossier>
+			<civilite_participant></civilite_participant>
+			<prenom_participant></prenom_participant>
+			<nom_participant></nom_participant>
+			<nom_mari_participant></nom_mari_participant>
+			<jour_naiss_participant></jour_naiss_participant>
+			<mois_naiss_participant></mois_naiss_participant>
+			<ann_naiss_participant></ann_naiss_participant>
+			<date_naiss_participant></date_naiss_participant>
+			<jour_dc></jour_dc>
+			<mois_dc></mois_dc>
+			<ann_dc></ann_dc>
+			<jour_cessation_act></jour_cessation_act>
+			<mois_cessation_act></mois_cessation_act>
+			<ann_cessation_act></ann_cessation_act>
+			<mois_effet_retraite></mois_effet_retraite>
+			<ann_effet_retraite></ann_effet_retraite>
+			<objet_RCV></objet_RCV>
+			<presence_Ia></presence_Ia>
+			<cle_NSSI_participant></cle_NSSI_participant>
+			<num_autre_regime_part></num_autre_regime_part>
+		</dossier_participant>
+      <carriere>
+        <date_valeur_pts></date_valeur_pts>
+        <valeur_ann_pts></valeur_ann_pts>
+        <nb_tot_pts_arrco></nb_tot_pts_arrco>
+        <nb_tot_pts_tb></nb_tot_pts_tb>
+        <nb_tot_pts_tc></nb_tot_pts_tc>
+        <mt_tot_arrco></mt_tot_arrco>
+        <mt_tot_agirc></mt_tot_agirc>
+        <ligne_carriere>
+          <raison_sociale></raison_sociale>
+          <nature_activite></nature_activite>
+          <nb_pts_arrco_ligne></nb_pts_arrco_ligne>
+          <nb_pts_tb_ligne></nb_pts_tb_ligne>
+          <nb_pts_tc_ligne></nb_pts_tc_ligne>
+          <date_debut_periode></date_debut_periode>
+          <date_fin_periode></date_fin_periode>
+        </ligne_carriere>
+      </carriere>
+      <carriere_invalidite>
+        <annee_arrco></annee_arrco>
+        <libelle_info_arrco></libelle_info_arrco>
+        <nb_pts_arrco_invalidite></nb_pts_arrco_invalidite>
+        <tx_arrco></tx_arrco>
+        <annee_tc></annee_tc>
+        <nb_pts_tc_invalidite></nb_pts_tc_invalidite>
+        <libelle_info_tc></libelle_info_tc>
+        <tx_tc></tx_tc>
+        <annee_agirc></annee_agirc>
+        <nb_pts_agirc_invalidite></nb_pts_agirc_invalidite>
+        <libelle_info_agirc></libelle_info_agirc>
+        <tx_agirc></tx_agirc>
+      </carriere_invalidite>
+      <droit>
+        <mt_brut_ann_arrco_droit></mt_brut_ann_arrco_droit>
+        <mt_brut_ann_agirc_droit></mt_brut_ann_agirc_droit>
+        <nb_pts_arrco_droit></nb_pts_arrco_droit>
+        <nb_pts_agirc_droit></nb_pts_agirc_droit>
+        <libelle_retraite></libelle_retraite>
+        <critere_minoration></critere_minoration>
+        <type_pension_droit></type_pension_droit>
+        <mt_taux_mino></mt_taux_mino>
+        <date_effet_mino></date_effet_mino>
+      </droit>
+	  <PJ>
+			<ligne_PJ>- Relevé d'identité bancaire</ligne_PJ>
+		</PJ>
+		<PJ>
+			<ligne_PJ>- Preuves d'état civil (carte d'identité, passeport...) : en original</ligne_PJ>
+		</PJ>
+		<PJ>
+			<ligne_PJ>- Avis d'imposition sur le revenu (à numériser par le gestionnaire) : 2015</ligne_PJ>
+		</PJ>
+		<PJ>
+			<ligne_PJ>sur vos revenus 2014, en copie et original</ligne_PJ>
+		</PJ>
+		<PJ>
+			<ligne_PJ>- Livret de famille : pages mentionnant le mariage et les enfants, en copie</ligne_PJ>
+		</PJ>
+		<PJ>
+			<ligne_PJ>et original.</ligne_PJ>
+		</PJ>
+		<PJ>
+			<ligne_PJ>- Carte ou attestation vitale : en original</ligne_PJ>
+		</PJ>
+		<PJ>
+			<ligne_PJ>- Reconstitution de carrière à valider</ligne_PJ>
+		</PJ>
+		<PJ>
+			<ligne_PJ>- Attestation de perception d'indemnités journalières au titre de la</ligne_PJ>
+		</PJ>
+		<PJ>
+			<ligne_PJ>maladie, de la maternité ou d'un accident du travail ert</ligne_PJ>
+		</PJ>
+		<PJ>
+			<ligne_PJ>- Justificatifs (bulletin de salaire ou attestation chômage ou maladie) :</ligne_PJ>
+		</PJ>
+		<PJ>
+			<ligne_PJ>des périodes non inscrites sur le détail de carrière, en original</ligne_PJ>
+		</PJ>
+		<signature>
+			<nom_institution/>
+			<prenom_dest_sign/>
+			<nom_dest_sign/>
+			<ref_dossier_sign/>
+			<libelle_signature>Le service retraite</libelle_signature>
+		</signature>
+      <RDV>
+        <ligne_adresse1_RDV></ligne_adresse1_RDV>
+        <ligne_adresse2_RDV></ligne_adresse2_RDV>
+        <ligne_adresse3_RDV></ligne_adresse3_RDV>
+        <ligne_adresse4_RDV></ligne_adresse4_RDV>
+        <ligne_adresse5_RDV></ligne_adresse5_RDV>
+        <ligne_adresse6_RDV></ligne_adresse6_RDV>
+        <code_postal_RDV></code_postal_RDV>
+        <localite_RDV></localite_RDV>
+        <date_RDV></date_RDV>
+        <heure_RDV></heure_RDV>
+      </RDV>
+      <saisie_libre>
+        <bloc_libre1></bloc_libre1>
+        <bloc_libre2></bloc_libre2>
+        <bloc_libre3></bloc_libre3>
+      </saisie_libre>
+      <PRC_demande>
+        <date_demande>17/08/2016</date_demande>
+        <date_reception>17/08/2016</date_reception>
+        <nature_demande>[de retraite complémentaire]</nature_demande>
+        <civilite>Mademoiselle</civilite>
+        <nom>DEMANDE</nom>
+        <type_pension_demandeprc>[et Agirc]</type_pension_demandeprc>
+        <date_effet></date_effet>
+        <date_limite_reponse></date_limite_reponse>
+        <date_proch_contact></date_proch_contact>
+        <date_envoi_prec></date_envoi_prec>
+        <nature_demande_prec>[nature demande prec]</nature_demande_prec>
+        <type_dossier></type_dossier>
+        <type_org_reception></type_org_reception>
+        <nom_receptionniste_dmd>[nom réceptionniste demande]</nom_receptionniste_dmd>
+        <libelle_per_car></libelle_per_car>
+        <libelle_signe>[libelle signe]</libelle_signe>
+        <libelle_PJ></libelle_PJ>
+			<libelle_variable>LIBELLE VARIABLE</libelle_variable>
+			<libelle_recu/>
+			<libelle_pension_regime>LIBELLE PENSION REGIME</libelle_pension_regime>
+			<libelle_montant>LIBELLE MONTANT</libelle_montant>
+        <libelle_liste_doc></libelle_liste_doc>
+        <libelle_demande>[demande non vide]</libelle_demande>
+        <libelle_RCV>[RCV non Vide]</libelle_RCV>
+        <libelle_liste_PJ>[les pièces justificatives suivantes]</libelle_liste_PJ>
+        <libelle_reconnu></libelle_reconnu>
+        <libelle_car_a_val>[car a val non vide]</libelle_car_a_val>
+        <code_annulation></code_annulation>
+        <indicateur_inc></indicateur_inc>
+      </PRC_demande>
+      <PRC_carval>
+        <situation></situation>
+        <activite_nature_periode></activite_nature_periode>
+        <mt_brut_ann_arrco></mt_brut_ann_arrco>
+        <mt_brut_ann_agirc_carval></mt_brut_ann_agirc_carval>
+      </PRC_carval>
+      <PRC_notification>
+        <identite_notification></identite_notification>
+      </PRC_notification>
+    </METIER>
+  </DOCUMENT>
+  <DOCUMENT>
+	<UD_INTERLOCUTION>
+		<UDI-GROUPE>IRCEM</UDI-GROUPE>
+		<UDI_DETAIL>
+			<UDI_EXPEDITEUR>
+				<UDI-EXPEDL1/>
+				<UDI-EXPEDL2>groupe Humanis</UDI-EXPEDL2>
+				<UDI-EXPEDL3>21 rue Roger Salengro</UDI-EXPEDL3>
+				<UDI-EXPEDL4>94137 Fontenay sous Bois Cedex</UDI-EXPEDL4>
+				<UDI-EXPEDL5/>
+				<UDI-EXPEDL6/>
+				<UDI-EXPEDL7/>
+			</UDI_EXPEDITEUR>
+			<UDI_CONTACT>
+				<UDI-CONTLIB1>Tél : </UDI-CONTLIB1>
+				<UDI-CONTVAL1>0 811 91 00 70 (coût d'un appel local)</UDI-CONTVAL1>
+				<UDI-CONTLIB2>Du lundi au vendredi de 8h30 à 18h00</UDI-CONTLIB2>
+				<UDI-CONTVAL2/>
+				<UDI-CONTLIB3>Email : </UDI-CONTLIB3>
+				<UDI-CONTVAL3>contactentreprise@humanis.com</UDI-CONTVAL3>
+				<UDI-CONTLIB4/>
+				<UDI-CONTVAL4/>
+				<UDI-CONTLIB5/>
+				<UDI-CONTVAL5/>
+				<UDI-CONTLIB6/>
+				<UDI-CONTVAL6/>
+				<UDI-CONTLIB7/>
+				<UDI-CONTVAL7/>
+			</UDI_CONTACT>
+			<UDI_REFERENCE>
+				<UDI-REFLIB1>Réf: </UDI-REFLIB1>
+				<UDI-REFVAL1>030006604000 005 00001 32</UDI-REFVAL1>
+				<UDI-REFLIB2/>
+				<UDI-REFVAL2/>
+				<UDI-REFLIB3/>
+				<UDI-REFVAL3/>
+			</UDI_REFERENCE>
+			<UDI_DESTINATAIRE>
+				<UDI-DESTL1>PARC GESTION SARL222222222</UDI-DESTL1>
+				<UDI-DESTL2>SERVICE RH</UDI-DESTL2>
+				<UDI-DESTL3/>
+				<UDI-DESTL4>10 ALL DE L ALOUETTE</UDI-DESTL4>
+				<UDI-DESTL5/>
+				<UDI-DESTL6>93420 VILLEPINTE</UDI-DESTL6>
+				<UDI-DESTL7/>
+			</UDI_DESTINATAIRE>
+			<UDI_LIEUDATE>
+				<UDI-LIEU>Paris</UDI-LIEU>
+				<UDI-DATE>20120730</UDI-DATE>
+			</UDI_LIEUDATE>
+			<UDI_PIEDPAGE>
+				<UDI-PPGL1>SANTE</UDI-PPGL1>
+				<UDI-PPGL2>PREVOYANCE</UDI-PPGL2>
+				<UDI-PPGL3>RETRAITE</UDI-PPGL3>
+				<UDI-PPGL4>EPARGNES</UDI-PPGL4>
+				<UDI-PPDL1>Siège social du groupe</UDI-PPDL1>
+				<UDI-PPDL2>7 rue Magdebourg</UDI-PPDL2>
+				<UDI-PPDL3>75116 Paris</UDI-PPDL3>
+				<UDI-PPDL4>www.humanis.com</UDI-PPDL4>
+				<UDI-REGIME>G</UDI-REGIME>
+			</UDI_PIEDPAGE>
+		</UDI_DETAIL>
+	</UD_INTERLOCUTION>
+	<UD_TECHNIQUE>
+		<UDT_WORKFLOW>
+			<UDT-MODEDECLENCHEMENT>PULL</UDT-MODEDECLENCHEMENT>
+			<UDT-PERSONNALISATION/>
+			<UDT-DESTINATION/>
+			<UDT-IDWF>X_WFT_DD_CEN</UDT-IDWF>
+			<UDT-IDECHANTILLONNAGE/>
+			<UDT-GROUPEVISU/>
+			<UDT-NOMPROJETARCHIVE>NOVALISTAITBOUT</UDT-NOMPROJETARCHIVE>
+			<UDT-ENTITEGEST/>
+		</UDT_WORKFLOW>
+		<UDT_PROPRIETEDOC>
+			<UDT-IDDOC>PULLVDTZ4NWS020620151638020000</UDT-IDDOC>
+			<UDT-POIDSDOC>1</UDT-POIDSDOC>
+			<UDT-LIBELLEDOC>ERCFT001</UDT-LIBELLEDOC>
+			<UDT-LIBELLEPLI>Courrier interactif démo</UDT-LIBELLEPLI>
+			<UDT-IDDEST/>
+			<UDT-IDCLIENT/>
+			<UDT-NOMDEST>XXXXXXXXX</UDT-NOMDEST>
+			<UDT-NOMCLIENT>YYYYYYYYYYYYYY</UDT-NOMCLIENT>
+			<UDT-NUMPAGE/>
+			<UDT-ZTEMDP1/>
+			<UDT-ZTEMDP2/>
+			<UDT-ZTEMDP3/>
+			<UDT-ZTEMDP4/>
+			<UDT-ZTEMDP5/>
+		</UDT_PROPRIETEDOC>
+		<UDT_TRE>
+			<UDT-CLIENT/>
+			<UDT-MODETRAITEMENT>PULL</UDT-MODETRAITEMENT>
+			<UDT-CHAINEDISTRIBUTION>X-R</UDT-CHAINEDISTRIBUTION>
+			<UDT-USER>USER</UDT-USER>
+			<UDT-TRAITEMENT>USER</UDT-TRAITEMENT>
+			<UDT-MODELE>ERCFT001</UDT-MODELE>
+			<UDT-IDSERVICE/>
+			<UDT-LIBELLESERVICE/>
+			<UDT-LOT>PULLVDTZ4NWS020620151638020000</UDT-LOT>
+			<UDT-IDPLI>PULLVDTZ4NWS020620151638020000</UDT-IDPLI>
+			<UDT-NOORDREPLI>1</UDT-NOORDREPLI>
+			<UDT-CDPOSTAL/>
+			<UDT-CDPAYS/>
+			<UDT-PROPBAN1/>
+			<UDT-PROPBAN2/>
+			<UDT-PROPBAN3/>
+			<UDT-PROPBAN4/>
+			<UDT-PROPBAN5/>
+			<UDT-IDFICHIER/>
+			<UDT-CONTEXTE/>
+			<UDT-PERIMETRE/>
+			<UDT-CDAFFRANCHISSEMENT/>
+			<UDT-URORIGINE/>
+			<UDT-TYPEGESTION/>
+		</UDT_TRE>
+		<UDT_POSTE>
+			<UDT-NODOSSIER/>
+			<UDT-INFOPND/>
+			<UDT-ISLLAD1>HUMANIS</UDT-ISLLAD1>
+			<UDT-ISLLAD2>v ffffffffffff</UDT-ISLLAD2>
+			<UDT-ISLLAD3>vvvvvvvvvvvvv</UDT-ISLLAD3>
+			<UDT-ISLLAD4/>
+			<UDT-ISLLAD5/>
+			<UDT-ISLLAD6>75001 paris</UDT-ISLLAD6>
+			<UDT-ISLLAD7/>
+		</UDT_POSTE>
+		<UDT_FILIERES>
+			<UDT-FILIERE1>CNIHQUO</UDT-FILIERE1>
+			<UDT-FILIERE2/>
+			<UDT-FILIERE3/>
+			<UDT-FILIERE4/>
+		</UDT_FILIERES>
+		<UDT_IMPDEP>
+			<UDT-IMPRIMANTE/>
+			<UDT-SERVEUR/>
+			<UDT-NBEXEMPLAIRE/>
+			<UDT-SOURCEIMP/>
+		</UDT_IMPDEP>
+		<UDT_MAIL>
+			<UDT-EDITIONCORPS/>
+			<UDT-ADRFROM/>
+			<UDT-ADRTO/>
+			<UDT-ADRCC/>
+			<UDT-ADRCCC/>
+			<UDT-VARMAIL1/>
+			<UDT-VARMAIL2/>
+			<UDT-VARMAIL3/>
+			<UDT-VARMAIL4/>
+			<UDT-VARMAIL5/>
+		</UDT_MAIL>
+		<UDT_GED>
+			<UDT-MODGED/>
+			<UDT-DOMGED/>
+			<UDT-IDGED1/>
+			<UDT-IDGED2/>
+			<UDT-IDGED3/>
+			<UDT-IDGED4/>
+			<UDT-IDGED5/>
+			<UDT-LIGNETECHGED/>
+			<UDT-DATAMATRIXGED/>
+		</UDT_GED>
+		<UDT_TRACABILITE>
+			<UDT-DOMAINE>interactif</UDT-DOMAINE>
+			<UDT-SERVICEKSL>service ksl</UDT-SERVICEKSL>
+			<UDT-GROUPENOTIFICATION>rhenriot@girc.agirc-arrco.fr</UDT-GROUPENOTIFICATION>
+			<UDT-DELAIDISTRIBUTION>1</UDT-DELAIDISTRIBUTION>
+			<UDT-DELAIPERSONNALISATION>1</UDT-DELAIPERSONNALISATION>
+			<UDT-DELAIVALIDATION>1</UDT-DELAIVALIDATION>
+			<UDT-DELAIGLOBAL>1</UDT-DELAIGLOBAL>
+		</UDT_TRACABILITE>
+	</UD_TECHNIQUE>
+	<UD_MAQUETTE>
+		<UDM_ASSISTGEST>
+			<UDM-ENT-NUM-INT>000276426</UDM-ENT-NUM-INT>
+			<UDM-ENT-NUM-EXT>961801313</UDM-ENT-NUM-EXT>
+			<UDM-ENT-RAISON-SOCIALE>ENTREPRISE AUDEMARD</UDM-ENT-RAISON-SOCIALE>
+			<UDM-IND-NUM-INT/>
+			<UDM-IND-NUM-EXT/>
+			<UDM-IND-CIV/>
+			<UDM-IND-PRN/>
+			<UDM-IND-NOM/>
+			<UDM-ADRL1>ENTREPRISE AUDEMARD</UDM-ADRL1>
+			<UDM-ADRL2/>
+			<UDM-ADRL3>LID RUE ZI 14EME RUE</UDM-ADRL3>
+			<UDM-ADRL4>1ERE AVENUE</UDM-ADRL4>
+			<UDM-ADRL5/>
+			<UDM-ADRL6>06510 CARROS</UDM-ADRL6>
+			<UDM-ADRL7/>
+			<UDM-IND-CPTBANQ/>
+			<UDM-IND-IBAN/>
+			<UDM-IND-BIC/>
+			<UDM-IND-DATNAIS/>
+			<UDM-IND-LIEUNAIS/>
+			<UDM-IND-DATDECES/>
+		</UDM_ASSISTGEST>
+		<UDM_DESTINATAIRE>
+			<UDM-DESTL1>HUMANIS</UDM-DESTL1>
+			<UDM-DESTL2>v ffffffffffff</UDM-DESTL2>
+			<UDM-DESTL3>vvvvvvvvvvvvv</UDM-DESTL3>
+			<UDM-DESTL4/>
+			<UDM-DESTL5/>
+			<UDM-DESTL6>75001 paris</UDM-DESTL6>
+			<UDM-DESTL7/>
+		</UDM_DESTINATAIRE>
+		<UDM_REFERENCE>
+			<UDM-REFLIB1>A voir : Entreprise</UDM-REFLIB1>
+			<UDM-REFVAL1/>
+			<UDM-REFLIB2/>
+			<UDM-REFVAL2/>
+			<UDM-REFLIB3/>
+			<UDM-REFVAL3/>
+		</UDM_REFERENCE>
+		<UDM_LIEUDATE>
+			<UDM-LIEU>Lyon</UDM-LIEU>
+			<UDM-DATE>20150602</UDM-DATE>
+		</UDM_LIEUDATE>
+		<UDM_SIGNATAIRE>
+			<UDM-SIGNATURE>nayenerp.jpg</UDM-SIGNATURE>
+			<UDM-SIGNATNOM>Gestionnaire Allocataires Retraite</UDM-SIGNATNOM>
+			<UDM-SIGNATFONC>V3V4REDUIT</UDM-SIGNATFONC>
+		</UDM_SIGNATAIRE>
+		<UDM_ADRETOUR>
+			<UDM-RETOURL1/>
+			<UDM-RETOURL2/>
+			<UDM-RETOURL3/>
+			<UDM-RETOURL4/>
+			<UDM-RETOURL5/>
+		</UDM_ADRETOUR>
+		<UDM_COMPLEMENT>
+			<UDM-CIVILITE>M</UDM-CIVILITE>
+			<UDM-COMPL1>GIE Humanis RCAS</UDM-COMPL1>
+			<UDM-COMPL2/>
+			<UDM-COMPL3/>
+		</UDM_COMPLEMENT>
+	</UD_MAQUETTE>
+    <METIER>
+      <en_tete>
+        <co_systeme_emetteur>A015</co_systeme_emetteur>
+        <co_contexte_emetteur>XX</co_contexte_emetteur>
+        <co_brique_emetteur>PRC</co_brique_emetteur>
+        <id_corresp>n°Flux</id_corresp>
+        <code_type_declenchement>B</code_type_declenchement>
+        <date_creation_corresp>20130809</date_creation_corresp>
+        <id_objet_RC>100008</id_objet_RC>
+        <id_client_interne_brique>457000326</id_client_interne_brique>
+        <id_client_externe>1,45055E+12</id_client_externe>
+        <code_type_objet_gestion>IND</code_type_objet_gestion>
+        <libelle_login_util>123456</libelle_login_util>
+        <id_document>n°Flux</id_document>
+        <id_modele_courrier>3a</id_modele_courrier>
+        <no_version_modele_courrier>v40</no_version_modele_courrier>
+        <no_ordre_enveloppe></no_ordre_enveloppe>
+      </en_tete>
+		<adresse_dest>
+			<civilite_dest>M.</civilite_dest>
+			<prenom_dest>PIERRE</prenom_dest>
+			<nom_dest>COUSSIE</nom_dest>
+			<raison_sociale_dest/>
+			<ligne_adresse1>M. PIERRE COUSSIE</ligne_adresse1>
+			<ligne_adresse2/>
+			<ligne_adresse3/>
+			<ligne_adresse4>42 AVENUE DU PANORAMA</ligne_adresse4>
+			<ligne_adresse5/>
+			<ligne_adresse6>91190 GIF SUR YVETTE</ligne_adresse6>
+			<ligne_adresse7>FRANCE</ligne_adresse7>
+			<code_postal>91190</code_postal>
+			<localite>GIF SUR YVETTE</localite>
+			<code_pays>FRANCE</code_pays>
+		</adresse_dest>
+		<entete_formulaire>
+			<date_edition>28 Juillet 2016</date_edition>
+			<NSSI_participant_entete>1560778622046</NSSI_participant_entete>
+			<identite_participant>COUSSIE PIERRE</identite_participant>
+			<objet_courrier>Demande de pièces justificatives</objet_courrier>
+			<objet_formulaire>Demande de pièces justificatives</objet_formulaire>
+			<ref_dossier_entete/>
+			<civilite_requerant>Monsieur</civilite_requerant>
+			<identite_complete_OD/>
+			<identite_beneficiaire/>
+			<indicateur_reversion/>
+		</entete_formulaire>
+      <adresse_beneficiare>
+        <ligne_adresse1_ben></ligne_adresse1_ben>
+        <ligne_adresse2_ben></ligne_adresse2_ben>
+        <ligne_adresse3_ben></ligne_adresse3_ben>
+        <ligne_adresse4_ben></ligne_adresse4_ben>
+        <ligne_adresse5_ben></ligne_adresse5_ben>
+        <ligne_adresse6_ben></ligne_adresse6_ben>
+        <ligne_adresse7_ben></ligne_adresse7_ben>
+        <code_postal_ben></code_postal_ben>
+        <localite_ben></localite_ben>
+        <code_pays_ben></code_pays_ben>
+        <email></email>
+        <telephone1></telephone1>
+        <telephone2></telephone2>
+      </adresse_beneficiare>
+      <adresse_retour>
+        <ligne_adresse1_ret></ligne_adresse1_ret>
+        <ligne_adresse2_ret></ligne_adresse2_ret>
+        <ligne_adresse3_ret></ligne_adresse3_ret>
+        <ligne_adresse4_ret></ligne_adresse4_ret>
+        <ligne_adresse5_ret></ligne_adresse5_ret>
+        <ligne_adresse6_ret></ligne_adresse6_ret>
+        <ligne_adresse7_ret></ligne_adresse7_ret>
+        <code_postal_ret></code_postal_ret>
+        <localite_ret></localite_ret>
+        <code_pays_ret></code_pays_ret>
+      </adresse_retour>
+      <beneficiaire>
+        <nom_beneficiaire></nom_beneficiaire>
+        <prenom_beneficiaire></prenom_beneficiaire>
+        <nom_mari_beneficiaire></nom_mari_beneficiaire>
+        <jour_naiss_beneficiaire></jour_naiss_beneficiaire>
+        <mois_naiss_beneficiaire></mois_naiss_beneficiaire>
+        <ann_naiss_beneficiaire></ann_naiss_beneficiaire>
+        <NSSI_beneficiaire></NSSI_beneficiaire>
+        <cle_NSSI_beneficiaire></cle_NSSI_beneficiaire>
+        <num_autre_regime_ben></num_autre_regime_ben>
+      </beneficiaire>
+		<dossier_participant>
+			<ref_dossier_participant>AA BBB</ref_dossier_participant>
+			<NSSI_participant_dossier></NSSI_participant_dossier>
+			<civilite_participant></civilite_participant>
+			<prenom_participant></prenom_participant>
+			<nom_participant></nom_participant>
+			<nom_mari_participant></nom_mari_participant>
+			<jour_naiss_participant></jour_naiss_participant>
+			<mois_naiss_participant></mois_naiss_participant>
+			<ann_naiss_participant></ann_naiss_participant>
+			<date_naiss_participant></date_naiss_participant>
+			<jour_dc></jour_dc>
+			<mois_dc></mois_dc>
+			<ann_dc></ann_dc>
+			<jour_cessation_act></jour_cessation_act>
+			<mois_cessation_act></mois_cessation_act>
+			<ann_cessation_act></ann_cessation_act>
+			<mois_effet_retraite></mois_effet_retraite>
+			<ann_effet_retraite></ann_effet_retraite>
+			<objet_RCV></objet_RCV>
+			<presence_Ia>IA</presence_Ia>
+			<cle_NSSI_participant></cle_NSSI_participant>
+			<num_autre_regime_part></num_autre_regime_part>
+		</dossier_participant>
+      <carriere>
+        <date_valeur_pts></date_valeur_pts>
+        <valeur_ann_pts></valeur_ann_pts>
+        <nb_tot_pts_arrco></nb_tot_pts_arrco>
+        <nb_tot_pts_tb></nb_tot_pts_tb>
+        <nb_tot_pts_tc></nb_tot_pts_tc>
+        <mt_tot_arrco></mt_tot_arrco>
+        <mt_tot_agirc></mt_tot_agirc>
+        <ligne_carriere>
+          <raison_sociale></raison_sociale>
+          <nature_activite></nature_activite>
+          <nb_pts_arrco_ligne></nb_pts_arrco_ligne>
+          <nb_pts_tb_ligne></nb_pts_tb_ligne>
+          <nb_pts_tc_ligne></nb_pts_tc_ligne>
+          <date_debut_periode></date_debut_periode>
+          <date_fin_periode></date_fin_periode>
+        </ligne_carriere>
+      </carriere>
+      <carriere_invalidite>
+        <annee_arrco></annee_arrco>
+        <libelle_info_arrco></libelle_info_arrco>
+        <nb_pts_arrco_invalidite></nb_pts_arrco_invalidite>
+        <tx_arrco></tx_arrco>
+        <annee_tc></annee_tc>
+        <nb_pts_tc_invalidite></nb_pts_tc_invalidite>
+        <libelle_info_tc></libelle_info_tc>
+        <tx_tc></tx_tc>
+        <annee_agirc></annee_agirc>
+        <nb_pts_agirc_invalidite></nb_pts_agirc_invalidite>
+        <libelle_info_agirc></libelle_info_agirc>
+        <tx_agirc></tx_agirc>
+      </carriere_invalidite>
+      <droit>
+        <mt_brut_ann_arrco_droit></mt_brut_ann_arrco_droit>
+        <mt_brut_ann_agirc_droit></mt_brut_ann_agirc_droit>
+        <nb_pts_arrco_droit></nb_pts_arrco_droit>
+        <nb_pts_agirc_droit></nb_pts_agirc_droit>
+        <libelle_retraite></libelle_retraite>
+        <critere_minoration></critere_minoration>
+        <type_pension_droit></type_pension_droit>
+        <mt_taux_mino></mt_taux_mino>
+        <date_effet_mino></date_effet_mino>
+      </droit>
+		<signature>
+			<nom_institution/>
+			<prenom_dest_sign/>
+			<nom_dest_sign/>
+			<ref_dossier_sign/>
+			<libelle_signature>Le service retraite</libelle_signature>
+		</signature>
+      <RDV>
+        <ligne_adresse1_RDV></ligne_adresse1_RDV>
+        <ligne_adresse2_RDV></ligne_adresse2_RDV>
+        <ligne_adresse3_RDV></ligne_adresse3_RDV>
+        <ligne_adresse4_RDV></ligne_adresse4_RDV>
+        <ligne_adresse5_RDV></ligne_adresse5_RDV>
+        <ligne_adresse6_RDV></ligne_adresse6_RDV>
+        <code_postal_RDV></code_postal_RDV>
+        <localite_RDV></localite_RDV>
+        <date_RDV></date_RDV>
+        <heure_RDV></heure_RDV>
+      </RDV>
+      <saisie_libre>
+        <bloc_libre1></bloc_libre1>
+        <bloc_libre2></bloc_libre2>
+        <bloc_libre3></bloc_libre3>
+      </saisie_libre>
+      <PRC_demande>
+        <date_demande>18/08/2016</date_demande>
+        <date_reception>18/08/2016</date_reception>
+        <nature_demande>[de retraite complémentaire]</nature_demande>
+        <civilite>Madame</civilite>
+        <nom>TARTEMPION</nom>
+        <type_pension_demandeprc>[et Agirc]</type_pension_demandeprc>
+        <date_effet></date_effet>
+        <date_limite_reponse></date_limite_reponse>
+        <date_proch_contact></date_proch_contact>
+        <date_envoi_prec></date_envoi_prec>
+        <nature_demande_prec>NATURE DEMANDE PREC</nature_demande_prec>
+        <type_dossier></type_dossier>
+        <type_org_reception></type_org_reception>
+        <nom_receptionniste_dmd>NOM RECEPTIONNISTE DEMANDE</nom_receptionniste_dmd>
+        <libelle_per_car></libelle_per_car>
+        <libelle_signe></libelle_signe>
+        <libelle_PJ></libelle_PJ>
+        <libelle_variable></libelle_variable>
+        <libelle_recu></libelle_recu>
+        <libelle_pension_regime>[libellé pension régime]</libelle_pension_regime>
+        <libelle_montant></libelle_montant>
+        <libelle_liste_doc></libelle_liste_doc>
+        <libelle_demande>[demande non vide]</libelle_demande>
+        <libelle_RCV>{RCV non Vide}</libelle_RCV>
+        <libelle_liste_PJ>[les pièces justificatives suivantes]</libelle_liste_PJ>
+        <libelle_reconnu></libelle_reconnu>
+        <libelle_car_a_val>[car a val non vide]</libelle_car_a_val>
+        <code_annulation></code_annulation>
+        <indicateur_inc></indicateur_inc>
+      </PRC_demande>
+      <PRC_carval>
+        <situation></situation>
+        <activite_nature_periode></activite_nature_periode>
+        <mt_brut_ann_arrco></mt_brut_ann_arrco>
+        <mt_brut_ann_agirc_carval></mt_brut_ann_agirc_carval>
+      </PRC_carval>
+      <PRC_notification>
+        <identite_notification></identite_notification>
+      </PRC_notification>
+    </METIER>
+  </DOCUMENT>
+  <DOCUMENT>
+	<UD_INTERLOCUTION>
+		<UDI-GROUPE>MM</UDI-GROUPE>
+		<UDI_DETAIL>
+			<UDI_EXPEDITEUR>
+				<UDI-EXPEDL1/>
+				<UDI-EXPEDL2>groupe Humanis</UDI-EXPEDL2>
+				<UDI-EXPEDL3>21 rue Roger Salengro</UDI-EXPEDL3>
+				<UDI-EXPEDL4>94137 Fontenay sous Bois Cedex</UDI-EXPEDL4>
+				<UDI-EXPEDL5/>
+				<UDI-EXPEDL6/>
+				<UDI-EXPEDL7/>
+			</UDI_EXPEDITEUR>
+			<UDI_CONTACT>
+				<UDI-CONTLIB1>Tél : </UDI-CONTLIB1>
+				<UDI-CONTVAL1>0 811 91 00 70 (coût d'un appel local)</UDI-CONTVAL1>
+				<UDI-CONTLIB2>Du lundi au vendredi de 8h30 à 18h00</UDI-CONTLIB2>
+				<UDI-CONTVAL2/>
+				<UDI-CONTLIB3>Email : </UDI-CONTLIB3>
+				<UDI-CONTVAL3>contactentreprise@humanis.com</UDI-CONTVAL3>
+				<UDI-CONTLIB4/>
+				<UDI-CONTVAL4/>
+				<UDI-CONTLIB5/>
+				<UDI-CONTVAL5/>
+				<UDI-CONTLIB6/>
+				<UDI-CONTVAL6/>
+				<UDI-CONTLIB7/>
+				<UDI-CONTVAL7/>
+			</UDI_CONTACT>
+			<UDI_REFERENCE>
+				<UDI-REFLIB1>Réf: </UDI-REFLIB1>
+				<UDI-REFVAL1>030006604000 005 00001 32</UDI-REFVAL1>
+				<UDI-REFLIB2/>
+				<UDI-REFVAL2/>
+				<UDI-REFLIB3/>
+				<UDI-REFVAL3/>
+			</UDI_REFERENCE>
+			<UDI_DESTINATAIRE>
+				<UDI-DESTL1>PARC GESTION SARL222222222</UDI-DESTL1>
+				<UDI-DESTL2>SERVICE RH</UDI-DESTL2>
+				<UDI-DESTL3/>
+				<UDI-DESTL4>10 ALL DE L ALOUETTE</UDI-DESTL4>
+				<UDI-DESTL5/>
+				<UDI-DESTL6>93420 VILLEPINTE</UDI-DESTL6>
+				<UDI-DESTL7/>
+			</UDI_DESTINATAIRE>
+			<UDI_LIEUDATE>
+				<UDI-LIEU>Paris</UDI-LIEU>
+				<UDI-DATE>20120730</UDI-DATE>
+			</UDI_LIEUDATE>
+			<UDI_PIEDPAGE>
+				<UDI-PPGL1>SANTE</UDI-PPGL1>
+				<UDI-PPGL2>PREVOYANCE</UDI-PPGL2>
+				<UDI-PPGL3>RETRAITE</UDI-PPGL3>
+				<UDI-PPGL4>EPARGNES</UDI-PPGL4>
+				<UDI-PPDL1>Siège social du groupe</UDI-PPDL1>
+				<UDI-PPDL2>7 rue Magdebourg</UDI-PPDL2>
+				<UDI-PPDL3>75116 Paris</UDI-PPDL3>
+				<UDI-PPDL4>www.humanis.com</UDI-PPDL4>
+				<UDI-REGIME>G</UDI-REGIME>
+			</UDI_PIEDPAGE>
+		</UDI_DETAIL>
+	</UD_INTERLOCUTION>
+	<UD_TECHNIQUE>
+		<UDT_WORKFLOW>
+			<UDT-MODEDECLENCHEMENT>PULL</UDT-MODEDECLENCHEMENT>
+			<UDT-PERSONNALISATION/>
+			<UDT-DESTINATION/>
+			<UDT-IDWF>X_WFT_DD_CEN</UDT-IDWF>
+			<UDT-IDECHANTILLONNAGE/>
+			<UDT-GROUPEVISU/>
+			<UDT-NOMPROJETARCHIVE>NOVALISTAITBOUT</UDT-NOMPROJETARCHIVE>
+			<UDT-ENTITEGEST/>
+		</UDT_WORKFLOW>
+		<UDT_PROPRIETEDOC>
+			<UDT-IDDOC>PULLVDTZ4NWS020620151638020000</UDT-IDDOC>
+			<UDT-POIDSDOC>1</UDT-POIDSDOC>
+			<UDT-LIBELLEDOC>ERCFT001</UDT-LIBELLEDOC>
+			<UDT-LIBELLEPLI>Courrier interactif démo</UDT-LIBELLEPLI>
+			<UDT-IDDEST/>
+			<UDT-IDCLIENT/>
+			<UDT-NOMDEST>XXXXXXXXX</UDT-NOMDEST>
+			<UDT-NOMCLIENT>YYYYYYYYYYYYYY</UDT-NOMCLIENT>
+			<UDT-NUMPAGE/>
+			<UDT-ZTEMDP1/>
+			<UDT-ZTEMDP2/>
+			<UDT-ZTEMDP3/>
+			<UDT-ZTEMDP4/>
+			<UDT-ZTEMDP5/>
+		</UDT_PROPRIETEDOC>
+		<UDT_TRE>
+			<UDT-CLIENT/>
+			<UDT-MODETRAITEMENT>PULL</UDT-MODETRAITEMENT>
+			<UDT-CHAINEDISTRIBUTION>X-R</UDT-CHAINEDISTRIBUTION>
+			<UDT-USER>USER</UDT-USER>
+			<UDT-TRAITEMENT>USER</UDT-TRAITEMENT>
+			<UDT-MODELE>ERCFT001</UDT-MODELE>
+			<UDT-IDSERVICE/>
+			<UDT-LIBELLESERVICE/>
+			<UDT-LOT>PULLVDTZ4NWS020620151638020000</UDT-LOT>
+			<UDT-IDPLI>PULLVDTZ4NWS020620151638020000</UDT-IDPLI>
+			<UDT-NOORDREPLI>1</UDT-NOORDREPLI>
+			<UDT-CDPOSTAL/>
+			<UDT-CDPAYS/>
+			<UDT-PROPBAN1/>
+			<UDT-PROPBAN2/>
+			<UDT-PROPBAN3/>
+			<UDT-PROPBAN4/>
+			<UDT-PROPBAN5/>
+			<UDT-IDFICHIER/>
+			<UDT-CONTEXTE/>
+			<UDT-PERIMETRE/>
+			<UDT-CDAFFRANCHISSEMENT/>
+			<UDT-URORIGINE/>
+			<UDT-TYPEGESTION/>
+		</UDT_TRE>
+		<UDT_POSTE>
+			<UDT-NODOSSIER/>
+			<UDT-INFOPND/>
+			<UDT-ISLLAD1>HUMANIS</UDT-ISLLAD1>
+			<UDT-ISLLAD2>v ffffffffffff</UDT-ISLLAD2>
+			<UDT-ISLLAD3>vvvvvvvvvvvvv</UDT-ISLLAD3>
+			<UDT-ISLLAD4/>
+			<UDT-ISLLAD5/>
+			<UDT-ISLLAD6>75001 paris</UDT-ISLLAD6>
+			<UDT-ISLLAD7/>
+		</UDT_POSTE>
+		<UDT_FILIERES>
+			<UDT-FILIERE1>CNIHQUO</UDT-FILIERE1>
+			<UDT-FILIERE2/>
+			<UDT-FILIERE3/>
+			<UDT-FILIERE4/>
+		</UDT_FILIERES>
+		<UDT_IMPDEP>
+			<UDT-IMPRIMANTE/>
+			<UDT-SERVEUR/>
+			<UDT-NBEXEMPLAIRE/>
+			<UDT-SOURCEIMP/>
+		</UDT_IMPDEP>
+		<UDT_MAIL>
+			<UDT-EDITIONCORPS/>
+			<UDT-ADRFROM/>
+			<UDT-ADRTO/>
+			<UDT-ADRCC/>
+			<UDT-ADRCCC/>
+			<UDT-VARMAIL1/>
+			<UDT-VARMAIL2/>
+			<UDT-VARMAIL3/>
+			<UDT-VARMAIL4/>
+			<UDT-VARMAIL5/>
+		</UDT_MAIL>
+		<UDT_GED>
+			<UDT-MODGED/>
+			<UDT-DOMGED/>
+			<UDT-IDGED1/>
+			<UDT-IDGED2/>
+			<UDT-IDGED3/>
+			<UDT-IDGED4/>
+			<UDT-IDGED5/>
+			<UDT-LIGNETECHGED/>
+			<UDT-DATAMATRIXGED/>
+		</UDT_GED>
+		<UDT_TRACABILITE>
+			<UDT-DOMAINE>interactif</UDT-DOMAINE>
+			<UDT-SERVICEKSL>service ksl</UDT-SERVICEKSL>
+			<UDT-GROUPENOTIFICATION>rhenriot@girc.agirc-arrco.fr</UDT-GROUPENOTIFICATION>
+			<UDT-DELAIDISTRIBUTION>1</UDT-DELAIDISTRIBUTION>
+			<UDT-DELAIPERSONNALISATION>1</UDT-DELAIPERSONNALISATION>
+			<UDT-DELAIVALIDATION>1</UDT-DELAIVALIDATION>
+			<UDT-DELAIGLOBAL>1</UDT-DELAIGLOBAL>
+		</UDT_TRACABILITE>
+	</UD_TECHNIQUE>
+	<UD_MAQUETTE>
+		<UDM_ASSISTGEST>
+			<UDM-ENT-NUM-INT>000276426</UDM-ENT-NUM-INT>
+			<UDM-ENT-NUM-EXT>961801313</UDM-ENT-NUM-EXT>
+			<UDM-ENT-RAISON-SOCIALE>ENTREPRISE AUDEMARD</UDM-ENT-RAISON-SOCIALE>
+			<UDM-IND-NUM-INT/>
+			<UDM-IND-NUM-EXT/>
+			<UDM-IND-CIV/>
+			<UDM-IND-PRN/>
+			<UDM-IND-NOM/>
+			<UDM-ADRL1>ENTREPRISE AUDEMARD</UDM-ADRL1>
+			<UDM-ADRL2/>
+			<UDM-ADRL3>LID RUE ZI 14EME RUE</UDM-ADRL3>
+			<UDM-ADRL4>1ERE AVENUE</UDM-ADRL4>
+			<UDM-ADRL5/>
+			<UDM-ADRL6>06510 CARROS</UDM-ADRL6>
+			<UDM-ADRL7/>
+			<UDM-IND-CPTBANQ/>
+			<UDM-IND-IBAN/>
+			<UDM-IND-BIC/>
+			<UDM-IND-DATNAIS/>
+			<UDM-IND-LIEUNAIS/>
+			<UDM-IND-DATDECES/>
+		</UDM_ASSISTGEST>
+		<UDM_DESTINATAIRE>
+			<UDM-DESTL1>HUMANIS</UDM-DESTL1>
+			<UDM-DESTL2>v ffffffffffff</UDM-DESTL2>
+			<UDM-DESTL3>vvvvvvvvvvvvv</UDM-DESTL3>
+			<UDM-DESTL4/>
+			<UDM-DESTL5/>
+			<UDM-DESTL6>75001 paris</UDM-DESTL6>
+			<UDM-DESTL7/>
+		</UDM_DESTINATAIRE>
+		<UDM_REFERENCE>
+			<UDM-REFLIB1>A voir : Entreprise</UDM-REFLIB1>
+			<UDM-REFVAL1/>
+			<UDM-REFLIB2/>
+			<UDM-REFVAL2/>
+			<UDM-REFLIB3/>
+			<UDM-REFVAL3/>
+		</UDM_REFERENCE>
+		<UDM_LIEUDATE>
+			<UDM-LIEU>Lyon</UDM-LIEU>
+			<UDM-DATE>20150602</UDM-DATE>
+		</UDM_LIEUDATE>
+		<UDM_SIGNATAIRE>
+			<UDM-SIGNATURE>nayenerp.jpg</UDM-SIGNATURE>
+			<UDM-SIGNATNOM>Gestionnaire Allocataires Retraite</UDM-SIGNATNOM>
+			<UDM-SIGNATFONC>V3V4REDUIT</UDM-SIGNATFONC>
+		</UDM_SIGNATAIRE>
+		<UDM_ADRETOUR>
+			<UDM-RETOURL1/>
+			<UDM-RETOURL2/>
+			<UDM-RETOURL3/>
+			<UDM-RETOURL4/>
+			<UDM-RETOURL5/>
+		</UDM_ADRETOUR>
+		<UDM_COMPLEMENT>
+			<UDM-CIVILITE>M</UDM-CIVILITE>
+			<UDM-COMPL1>GIE Humanis RCAS</UDM-COMPL1>
+			<UDM-COMPL2/>
+			<UDM-COMPL3/>
+		</UDM_COMPLEMENT>
+	</UD_MAQUETTE>
+    <METIER>
+      <en_tete>
+        <co_systeme_emetteur>A015</co_systeme_emetteur>
+        <co_contexte_emetteur>XX</co_contexte_emetteur>
+        <co_brique_emetteur>PRC</co_brique_emetteur>
+        <id_corresp>n°Flux</id_corresp>
+        <code_type_declenchement>B</code_type_declenchement>
+        <date_creation_corresp>20130809</date_creation_corresp>
+        <id_objet_RC>100008</id_objet_RC>
+        <id_client_interne_brique>457000326</id_client_interne_brique>
+        <id_client_externe>1,45055E+12</id_client_externe>
+        <code_type_objet_gestion>IND</code_type_objet_gestion>
+        <libelle_login_util>123456</libelle_login_util>
+        <id_document>n°Flux</id_document>
+        <id_modele_courrier>3a</id_modele_courrier>
+        <no_version_modele_courrier>v40</no_version_modele_courrier>
+        <no_ordre_enveloppe></no_ordre_enveloppe>
+      </en_tete>
+		<adresse_dest>
+			<civilite_dest>M.</civilite_dest>
+			<prenom_dest>PIERRE</prenom_dest>
+			<nom_dest>COUSSIE</nom_dest>
+			<raison_sociale_dest/>
+			<ligne_adresse1>M. PIERRE COUSSIE</ligne_adresse1>
+			<ligne_adresse2/>
+			<ligne_adresse3/>
+			<ligne_adresse4>42 AVENUE DU PANORAMA</ligne_adresse4>
+			<ligne_adresse5/>
+			<ligne_adresse6>91190 GIF SUR YVETTE</ligne_adresse6>
+			<ligne_adresse7>FRANCE</ligne_adresse7>
+			<code_postal>91190</code_postal>
+			<localite>GIF SUR YVETTE</localite>
+			<code_pays>FRANCE</code_pays>
+		</adresse_dest>
+		<entete_formulaire>
+			<date_edition>28 Juillet 2016</date_edition>
+			<NSSI_participant_entete>1560778622046</NSSI_participant_entete>
+			<identite_participant>COUSSIE PIERRE</identite_participant>
+			<objet_courrier>Demande de pièces justificatives</objet_courrier>
+			<objet_formulaire>Demande de pièces justificatives</objet_formulaire>
+			<ref_dossier_entete/>
+			<civilite_requerant>Monsieur</civilite_requerant>
+			<identite_complete_OD/>
+			<identite_beneficiaire/>
+			<indicateur_reversion/>
+		</entete_formulaire>
+      <adresse_beneficiare>
+        <ligne_adresse1_ben></ligne_adresse1_ben>
+        <ligne_adresse2_ben></ligne_adresse2_ben>
+        <ligne_adresse3_ben></ligne_adresse3_ben>
+        <ligne_adresse4_ben></ligne_adresse4_ben>
+        <ligne_adresse5_ben></ligne_adresse5_ben>
+        <ligne_adresse6_ben></ligne_adresse6_ben>
+        <ligne_adresse7_ben></ligne_adresse7_ben>
+        <code_postal_ben></code_postal_ben>
+        <localite_ben></localite_ben>
+        <code_pays_ben></code_pays_ben>
+        <email></email>
+        <telephone1></telephone1>
+        <telephone2></telephone2>
+      </adresse_beneficiare>
+      <adresse_retour>
+        <ligne_adresse1_ret></ligne_adresse1_ret>
+        <ligne_adresse2_ret></ligne_adresse2_ret>
+        <ligne_adresse3_ret></ligne_adresse3_ret>
+        <ligne_adresse4_ret></ligne_adresse4_ret>
+        <ligne_adresse5_ret></ligne_adresse5_ret>
+        <ligne_adresse6_ret></ligne_adresse6_ret>
+        <ligne_adresse7_ret></ligne_adresse7_ret>
+        <code_postal_ret></code_postal_ret>
+        <localite_ret></localite_ret>
+        <code_pays_ret></code_pays_ret>
+      </adresse_retour>
+      <beneficiaire>
+        <nom_beneficiaire></nom_beneficiaire>
+        <prenom_beneficiaire></prenom_beneficiaire>
+        <nom_mari_beneficiaire></nom_mari_beneficiaire>
+        <jour_naiss_beneficiaire></jour_naiss_beneficiaire>
+        <mois_naiss_beneficiaire></mois_naiss_beneficiaire>
+        <ann_naiss_beneficiaire></ann_naiss_beneficiaire>
+        <NSSI_beneficiaire></NSSI_beneficiaire>
+        <cle_NSSI_beneficiaire></cle_NSSI_beneficiaire>
+        <num_autre_regime_ben></num_autre_regime_ben>
+      </beneficiaire>
+		<dossier_participant>
+			<ref_dossier_participant>AA BBB</ref_dossier_participant>
+			<NSSI_participant_dossier></NSSI_participant_dossier>
+			<civilite_participant></civilite_participant>
+			<prenom_participant></prenom_participant>
+			<nom_participant></nom_participant>
+			<nom_mari_participant></nom_mari_participant>
+			<jour_naiss_participant></jour_naiss_participant>
+			<mois_naiss_participant></mois_naiss_participant>
+			<ann_naiss_participant></ann_naiss_participant>
+			<date_naiss_participant></date_naiss_participant>
+			<jour_dc></jour_dc>
+			<mois_dc></mois_dc>
+			<ann_dc></ann_dc>
+			<jour_cessation_act></jour_cessation_act>
+			<mois_cessation_act></mois_cessation_act>
+			<ann_cessation_act></ann_cessation_act>
+			<mois_effet_retraite></mois_effet_retraite>
+			<ann_effet_retraite></ann_effet_retraite>
+			<objet_RCV></objet_RCV>
+			<presence_Ia>IA</presence_Ia>
+			<cle_NSSI_participant></cle_NSSI_participant>
+			<num_autre_regime_part></num_autre_regime_part>
+		</dossier_participant>
+      <carriere>
+        <date_valeur_pts></date_valeur_pts>
+        <valeur_ann_pts></valeur_ann_pts>
+        <nb_tot_pts_arrco></nb_tot_pts_arrco>
+        <nb_tot_pts_tb></nb_tot_pts_tb>
+        <nb_tot_pts_tc></nb_tot_pts_tc>
+        <mt_tot_arrco></mt_tot_arrco>
+        <mt_tot_agirc></mt_tot_agirc>
+        <ligne_carriere>
+          <raison_sociale></raison_sociale>
+          <nature_activite></nature_activite>
+          <nb_pts_arrco_ligne></nb_pts_arrco_ligne>
+          <nb_pts_tb_ligne></nb_pts_tb_ligne>
+          <nb_pts_tc_ligne></nb_pts_tc_ligne>
+          <date_debut_periode></date_debut_periode>
+          <date_fin_periode></date_fin_periode>
+        </ligne_carriere>
+      </carriere>
+      <carriere_invalidite>
+        <annee_arrco></annee_arrco>
+        <libelle_info_arrco></libelle_info_arrco>
+        <nb_pts_arrco_invalidite></nb_pts_arrco_invalidite>
+        <tx_arrco></tx_arrco>
+        <annee_tc></annee_tc>
+        <nb_pts_tc_invalidite></nb_pts_tc_invalidite>
+        <libelle_info_tc></libelle_info_tc>
+        <tx_tc></tx_tc>
+        <annee_agirc></annee_agirc>
+        <nb_pts_agirc_invalidite></nb_pts_agirc_invalidite>
+        <libelle_info_agirc></libelle_info_agirc>
+        <tx_agirc></tx_agirc>
+      </carriere_invalidite>
+      <droit>
+        <mt_brut_ann_arrco_droit></mt_brut_ann_arrco_droit>
+        <mt_brut_ann_agirc_droit></mt_brut_ann_agirc_droit>
+        <nb_pts_arrco_droit></nb_pts_arrco_droit>
+        <nb_pts_agirc_droit></nb_pts_agirc_droit>
+        <libelle_retraite></libelle_retraite>
+        <critere_minoration></critere_minoration>
+        <type_pension_droit></type_pension_droit>
+        <mt_taux_mino></mt_taux_mino>
+        <date_effet_mino></date_effet_mino>
+      </droit>
+		<signature>
+			<nom_institution/>
+			<prenom_dest_sign/>
+			<nom_dest_sign/>
+			<ref_dossier_sign/>
+			<libelle_signature>Le service retraite</libelle_signature>
+		</signature>
+      <RDV>
+        <ligne_adresse1_RDV></ligne_adresse1_RDV>
+        <ligne_adresse2_RDV></ligne_adresse2_RDV>
+        <ligne_adresse3_RDV></ligne_adresse3_RDV>
+        <ligne_adresse4_RDV></ligne_adresse4_RDV>
+        <ligne_adresse5_RDV></ligne_adresse5_RDV>
+        <ligne_adresse6_RDV></ligne_adresse6_RDV>
+        <code_postal_RDV></code_postal_RDV>
+        <localite_RDV></localite_RDV>
+        <date_RDV></date_RDV>
+        <heure_RDV></heure_RDV>
+      </RDV>
+      <saisie_libre>
+        <bloc_libre1></bloc_libre1>
+        <bloc_libre2></bloc_libre2>
+        <bloc_libre3></bloc_libre3>
+      </saisie_libre>
+      <PRC_demande>
+        <date_demande>19/08/2016</date_demande>
+        <date_reception>19/08/2016</date_reception>
+        <nature_demande>[de retraite complémentaire]</nature_demande>
+        <civilite>Madame</civilite>
+        <nom>TARTEMPION</nom>
+        <type_pension_demandeprc>[et Agirc]</type_pension_demandeprc>
+        <date_effet></date_effet>
+        <date_limite_reponse></date_limite_reponse>
+        <date_proch_contact></date_proch_contact>
+        <date_envoi_prec></date_envoi_prec>
+        <nature_demande_prec>NATURE DEMANDE PREC</nature_demande_prec>
+        <type_dossier></type_dossier>
+        <type_org_reception></type_org_reception>
+        <nom_receptionniste_dmd>NOM RECEPTIONNISTE DEMANDE</nom_receptionniste_dmd>
+        <libelle_per_car></libelle_per_car>
+        <libelle_signe></libelle_signe>
+        <libelle_PJ></libelle_PJ>
+        <libelle_variable></libelle_variable>
+        <libelle_recu></libelle_recu>
+        <libelle_pension_regime>[libellé pension régime]</libelle_pension_regime>
+        <libelle_montant></libelle_montant>
+        <libelle_liste_doc></libelle_liste_doc>
+        <libelle_demande>[demande non vide]</libelle_demande>
+        <libelle_RCV>[RCV non Vide]</libelle_RCV>
+        <libelle_liste_PJ>[les pièces justificatives suivantes]</libelle_liste_PJ>
+        <libelle_reconnu></libelle_reconnu>
+        <libelle_car_a_val>[car a val non vide]</libelle_car_a_val>
+        <code_annulation></code_annulation>
+        <indicateur_inc></indicateur_inc>
+      </PRC_demande>
+      <PRC_carval>
+        <situation></situation>
+        <activite_nature_periode></activite_nature_periode>
+        <mt_brut_ann_arrco></mt_brut_ann_arrco>
+        <mt_brut_ann_agirc_carval></mt_brut_ann_agirc_carval>
+      </PRC_carval>
+      <PRC_notification>
+        <identite_notification></identite_notification>
+      </PRC_notification>
+    </METIER>
+  </DOCUMENT>
+  <DOCUMENT>
+	<UD_INTERLOCUTION>
+		<UDI-GROUPE>CRC</UDI-GROUPE>
+		<UDI_DETAIL>
+			<UDI_EXPEDITEUR>
+				<UDI-EXPEDL1/>
+				<UDI-EXPEDL2>groupe Humanis</UDI-EXPEDL2>
+				<UDI-EXPEDL3>21 rue Roger Salengro</UDI-EXPEDL3>
+				<UDI-EXPEDL4>94137 Fontenay sous Bois Cedex</UDI-EXPEDL4>
+				<UDI-EXPEDL5/>
+				<UDI-EXPEDL6/>
+				<UDI-EXPEDL7/>
+			</UDI_EXPEDITEUR>
+			<UDI_CONTACT>
+				<UDI-CONTLIB1>Tél : </UDI-CONTLIB1>
+				<UDI-CONTVAL1>0 811 91 00 70 (coût d'un appel local)</UDI-CONTVAL1>
+				<UDI-CONTLIB2>Du lundi au vendredi de 8h30 à 18h00</UDI-CONTLIB2>
+				<UDI-CONTVAL2/>
+				<UDI-CONTLIB3>Email : </UDI-CONTLIB3>
+				<UDI-CONTVAL3>contactentreprise@humanis.com</UDI-CONTVAL3>
+				<UDI-CONTLIB4/>
+				<UDI-CONTVAL4/>
+				<UDI-CONTLIB5/>
+				<UDI-CONTVAL5/>
+				<UDI-CONTLIB6/>
+				<UDI-CONTVAL6/>
+				<UDI-CONTLIB7/>
+				<UDI-CONTVAL7/>
+			</UDI_CONTACT>
+			<UDI_REFERENCE>
+				<UDI-REFLIB1>Réf: </UDI-REFLIB1>
+				<UDI-REFVAL1>030006604000 005 00001 32</UDI-REFVAL1>
+				<UDI-REFLIB2/>
+				<UDI-REFVAL2/>
+				<UDI-REFLIB3/>
+				<UDI-REFVAL3/>
+			</UDI_REFERENCE>
+			<UDI_DESTINATAIRE>
+				<UDI-DESTL1>PARC GESTION SARL222222222</UDI-DESTL1>
+				<UDI-DESTL2>SERVICE RH</UDI-DESTL2>
+				<UDI-DESTL3/>
+				<UDI-DESTL4>10 ALL DE L ALOUETTE</UDI-DESTL4>
+				<UDI-DESTL5/>
+				<UDI-DESTL6>93420 VILLEPINTE</UDI-DESTL6>
+				<UDI-DESTL7/>
+			</UDI_DESTINATAIRE>
+			<UDI_LIEUDATE>
+				<UDI-LIEU>Paris</UDI-LIEU>
+				<UDI-DATE>20120730</UDI-DATE>
+			</UDI_LIEUDATE>
+			<UDI_PIEDPAGE>
+				<UDI-PPGL1>SANTE</UDI-PPGL1>
+				<UDI-PPGL2>PREVOYANCE</UDI-PPGL2>
+				<UDI-PPGL3>RETRAITE</UDI-PPGL3>
+				<UDI-PPGL4>EPARGNES</UDI-PPGL4>
+				<UDI-PPDL1>Siège social du groupe</UDI-PPDL1>
+				<UDI-PPDL2>7 rue Magdebourg</UDI-PPDL2>
+				<UDI-PPDL3>75116 Paris</UDI-PPDL3>
+				<UDI-PPDL4>www.humanis.com</UDI-PPDL4>
+				<UDI-REGIME>G</UDI-REGIME>
+			</UDI_PIEDPAGE>
+		</UDI_DETAIL>
+	</UD_INTERLOCUTION>
+	<UD_TECHNIQUE>
+		<UDT_WORKFLOW>
+			<UDT-MODEDECLENCHEMENT>PULL</UDT-MODEDECLENCHEMENT>
+			<UDT-PERSONNALISATION/>
+			<UDT-DESTINATION/>
+			<UDT-IDWF>X_WFT_DD_CEN</UDT-IDWF>
+			<UDT-IDECHANTILLONNAGE/>
+			<UDT-GROUPEVISU/>
+			<UDT-NOMPROJETARCHIVE>NOVALISTAITBOUT</UDT-NOMPROJETARCHIVE>
+			<UDT-ENTITEGEST/>
+		</UDT_WORKFLOW>
+		<UDT_PROPRIETEDOC>
+			<UDT-IDDOC>PULLVDTZ4NWS020620151638020000</UDT-IDDOC>
+			<UDT-POIDSDOC>1</UDT-POIDSDOC>
+			<UDT-LIBELLEDOC>ERCFT001</UDT-LIBELLEDOC>
+			<UDT-LIBELLEPLI>Courrier interactif démo</UDT-LIBELLEPLI>
+			<UDT-IDDEST/>
+			<UDT-IDCLIENT/>
+			<UDT-NOMDEST>XXXXXXXXX</UDT-NOMDEST>
+			<UDT-NOMCLIENT>YYYYYYYYYYYYYY</UDT-NOMCLIENT>
+			<UDT-NUMPAGE/>
+			<UDT-ZTEMDP1/>
+			<UDT-ZTEMDP2/>
+			<UDT-ZTEMDP3/>
+			<UDT-ZTEMDP4/>
+			<UDT-ZTEMDP5/>
+		</UDT_PROPRIETEDOC>
+		<UDT_TRE>
+			<UDT-CLIENT/>
+			<UDT-MODETRAITEMENT>PULL</UDT-MODETRAITEMENT>
+			<UDT-CHAINEDISTRIBUTION>X-R</UDT-CHAINEDISTRIBUTION>
+			<UDT-USER>USER</UDT-USER>
+			<UDT-TRAITEMENT>USER</UDT-TRAITEMENT>
+			<UDT-MODELE>ERCFT001</UDT-MODELE>
+			<UDT-IDSERVICE/>
+			<UDT-LIBELLESERVICE/>
+			<UDT-LOT>PULLVDTZ4NWS020620151638020000</UDT-LOT>
+			<UDT-IDPLI>PULLVDTZ4NWS020620151638020000</UDT-IDPLI>
+			<UDT-NOORDREPLI>1</UDT-NOORDREPLI>
+			<UDT-CDPOSTAL/>
+			<UDT-CDPAYS/>
+			<UDT-PROPBAN1/>
+			<UDT-PROPBAN2/>
+			<UDT-PROPBAN3/>
+			<UDT-PROPBAN4/>
+			<UDT-PROPBAN5/>
+			<UDT-IDFICHIER/>
+			<UDT-CONTEXTE/>
+			<UDT-PERIMETRE/>
+			<UDT-CDAFFRANCHISSEMENT/>
+			<UDT-URORIGINE/>
+			<UDT-TYPEGESTION/>
+		</UDT_TRE>
+		<UDT_POSTE>
+			<UDT-NODOSSIER/>
+			<UDT-INFOPND/>
+			<UDT-ISLLAD1>HUMANIS</UDT-ISLLAD1>
+			<UDT-ISLLAD2>v ffffffffffff</UDT-ISLLAD2>
+			<UDT-ISLLAD3>vvvvvvvvvvvvv</UDT-ISLLAD3>
+			<UDT-ISLLAD4/>
+			<UDT-ISLLAD5/>
+			<UDT-ISLLAD6>75001 paris</UDT-ISLLAD6>
+			<UDT-ISLLAD7/>
+		</UDT_POSTE>
+		<UDT_FILIERES>
+			<UDT-FILIERE1>CNIHQUO</UDT-FILIERE1>
+			<UDT-FILIERE2/>
+			<UDT-FILIERE3/>
+			<UDT-FILIERE4/>
+		</UDT_FILIERES>
+		<UDT_IMPDEP>
+			<UDT-IMPRIMANTE/>
+			<UDT-SERVEUR/>
+			<UDT-NBEXEMPLAIRE/>
+			<UDT-SOURCEIMP/>
+		</UDT_IMPDEP>
+		<UDT_MAIL>
+			<UDT-EDITIONCORPS/>
+			<UDT-ADRFROM/>
+			<UDT-ADRTO/>
+			<UDT-ADRCC/>
+			<UDT-ADRCCC/>
+			<UDT-VARMAIL1/>
+			<UDT-VARMAIL2/>
+			<UDT-VARMAIL3/>
+			<UDT-VARMAIL4/>
+			<UDT-VARMAIL5/>
+		</UDT_MAIL>
+		<UDT_GED>
+			<UDT-MODGED/>
+			<UDT-DOMGED/>
+			<UDT-IDGED1/>
+			<UDT-IDGED2/>
+			<UDT-IDGED3/>
+			<UDT-IDGED4/>
+			<UDT-IDGED5/>
+			<UDT-LIGNETECHGED/>
+			<UDT-DATAMATRIXGED/>
+		</UDT_GED>
+		<UDT_TRACABILITE>
+			<UDT-DOMAINE>interactif</UDT-DOMAINE>
+			<UDT-SERVICEKSL>service ksl</UDT-SERVICEKSL>
+			<UDT-GROUPENOTIFICATION>rhenriot@girc.agirc-arrco.fr</UDT-GROUPENOTIFICATION>
+			<UDT-DELAIDISTRIBUTION>1</UDT-DELAIDISTRIBUTION>
+			<UDT-DELAIPERSONNALISATION>1</UDT-DELAIPERSONNALISATION>
+			<UDT-DELAIVALIDATION>1</UDT-DELAIVALIDATION>
+			<UDT-DELAIGLOBAL>1</UDT-DELAIGLOBAL>
+		</UDT_TRACABILITE>
+	</UD_TECHNIQUE>
+	<UD_MAQUETTE>
+		<UDM_ASSISTGEST>
+			<UDM-ENT-NUM-INT>000276426</UDM-ENT-NUM-INT>
+			<UDM-ENT-NUM-EXT>961801313</UDM-ENT-NUM-EXT>
+			<UDM-ENT-RAISON-SOCIALE>ENTREPRISE AUDEMARD</UDM-ENT-RAISON-SOCIALE>
+			<UDM-IND-NUM-INT/>
+			<UDM-IND-NUM-EXT/>
+			<UDM-IND-CIV/>
+			<UDM-IND-PRN/>
+			<UDM-IND-NOM/>
+			<UDM-ADRL1>ENTREPRISE AUDEMARD</UDM-ADRL1>
+			<UDM-ADRL2/>
+			<UDM-ADRL3>LID RUE ZI 14EME RUE</UDM-ADRL3>
+			<UDM-ADRL4>1ERE AVENUE</UDM-ADRL4>
+			<UDM-ADRL5/>
+			<UDM-ADRL6>06510 CARROS</UDM-ADRL6>
+			<UDM-ADRL7/>
+			<UDM-IND-CPTBANQ/>
+			<UDM-IND-IBAN/>
+			<UDM-IND-BIC/>
+			<UDM-IND-DATNAIS/>
+			<UDM-IND-LIEUNAIS/>
+			<UDM-IND-DATDECES/>
+		</UDM_ASSISTGEST>
+		<UDM_DESTINATAIRE>
+			<UDM-DESTL1>HUMANIS</UDM-DESTL1>
+			<UDM-DESTL2>v ffffffffffff</UDM-DESTL2>
+			<UDM-DESTL3>vvvvvvvvvvvvv</UDM-DESTL3>
+			<UDM-DESTL4/>
+			<UDM-DESTL5/>
+			<UDM-DESTL6>75001 paris</UDM-DESTL6>
+			<UDM-DESTL7/>
+		</UDM_DESTINATAIRE>
+		<UDM_REFERENCE>
+			<UDM-REFLIB1>A voir : Entreprise</UDM-REFLIB1>
+			<UDM-REFVAL1/>
+			<UDM-REFLIB2/>
+			<UDM-REFVAL2/>
+			<UDM-REFLIB3/>
+			<UDM-REFVAL3/>
+		</UDM_REFERENCE>
+		<UDM_LIEUDATE>
+			<UDM-LIEU>Lyon</UDM-LIEU>
+			<UDM-DATE>20150602</UDM-DATE>
+		</UDM_LIEUDATE>
+		<UDM_SIGNATAIRE>
+			<UDM-SIGNATURE>nayenerp.jpg</UDM-SIGNATURE>
+			<UDM-SIGNATNOM>Gestionnaire Allocataires Retraite</UDM-SIGNATNOM>
+			<UDM-SIGNATFONC>V3V4REDUIT</UDM-SIGNATFONC>
+		</UDM_SIGNATAIRE>
+		<UDM_ADRETOUR>
+			<UDM-RETOURL1/>
+			<UDM-RETOURL2/>
+			<UDM-RETOURL3/>
+			<UDM-RETOURL4/>
+			<UDM-RETOURL5/>
+		</UDM_ADRETOUR>
+		<UDM_COMPLEMENT>
+			<UDM-CIVILITE>M</UDM-CIVILITE>
+			<UDM-COMPL1>GIE Humanis RCAS</UDM-COMPL1>
+			<UDM-COMPL2/>
+			<UDM-COMPL3/>
+		</UDM_COMPLEMENT>
+	</UD_MAQUETTE>
+    <METIER>
+      <en_tete>
+        <co_systeme_emetteur>A015</co_systeme_emetteur>
+        <co_contexte_emetteur>XX</co_contexte_emetteur>
+        <co_brique_emetteur>PRC</co_brique_emetteur>
+        <id_corresp>n°Flux</id_corresp>
+        <code_type_declenchement>B</code_type_declenchement>
+        <date_creation_corresp>20130809</date_creation_corresp>
+        <id_objet_RC>100008</id_objet_RC>
+        <id_client_interne_brique>457000326</id_client_interne_brique>
+        <id_client_externe>1,45055E+12</id_client_externe>
+        <code_type_objet_gestion>IND</code_type_objet_gestion>
+        <libelle_login_util>123456</libelle_login_util>
+        <id_document>n°Flux</id_document>
+        <id_modele_courrier>3a</id_modele_courrier>
+        <no_version_modele_courrier>v40</no_version_modele_courrier>
+        <no_ordre_enveloppe></no_ordre_enveloppe>
+      </en_tete>
+		<adresse_dest>
+			<civilite_dest>M.</civilite_dest>
+			<prenom_dest>PIERRE</prenom_dest>
+			<nom_dest>COUSSIE</nom_dest>
+			<raison_sociale_dest/>
+			<ligne_adresse1>M. PIERRE COUSSIE</ligne_adresse1>
+			<ligne_adresse2/>
+			<ligne_adresse3/>
+			<ligne_adresse4>42 AVENUE DU PANORAMA</ligne_adresse4>
+			<ligne_adresse5/>
+			<ligne_adresse6>91190 GIF SUR YVETTE</ligne_adresse6>
+			<ligne_adresse7>FRANCE</ligne_adresse7>
+			<code_postal>91190</code_postal>
+			<localite>GIF SUR YVETTE</localite>
+			<code_pays>FRANCE</code_pays>
+		</adresse_dest>
+		<entete_formulaire>
+			<date_edition>28 Juillet 2016</date_edition>
+			<NSSI_participant_entete>1560778622046</NSSI_participant_entete>
+			<identite_participant>COUSSIE PIERRE</identite_participant>
+			<objet_courrier>Demande de pièces justificatives</objet_courrier>
+			<objet_formulaire>Demande de pièces justificatives</objet_formulaire>
+			<ref_dossier_entete/>
+			<civilite_requerant>Monsieur</civilite_requerant>
+			<identite_complete_OD/>
+			<identite_beneficiaire/>
+			<indicateur_reversion/>
+		</entete_formulaire>
+      <adresse_beneficiare>
+        <ligne_adresse1_ben></ligne_adresse1_ben>
+        <ligne_adresse2_ben></ligne_adresse2_ben>
+        <ligne_adresse3_ben></ligne_adresse3_ben>
+        <ligne_adresse4_ben></ligne_adresse4_ben>
+        <ligne_adresse5_ben></ligne_adresse5_ben>
+        <ligne_adresse6_ben></ligne_adresse6_ben>
+        <ligne_adresse7_ben></ligne_adresse7_ben>
+        <code_postal_ben></code_postal_ben>
+        <localite_ben></localite_ben>
+        <code_pays_ben></code_pays_ben>
+        <email></email>
+        <telephone1></telephone1>
+        <telephone2></telephone2>
+      </adresse_beneficiare>
+      <adresse_retour>
+        <ligne_adresse1_ret></ligne_adresse1_ret>
+        <ligne_adresse2_ret></ligne_adresse2_ret>
+        <ligne_adresse3_ret></ligne_adresse3_ret>
+        <ligne_adresse4_ret></ligne_adresse4_ret>
+        <ligne_adresse5_ret></ligne_adresse5_ret>
+        <ligne_adresse6_ret></ligne_adresse6_ret>
+        <ligne_adresse7_ret></ligne_adresse7_ret>
+        <code_postal_ret></code_postal_ret>
+        <localite_ret></localite_ret>
+        <code_pays_ret></code_pays_ret>
+      </adresse_retour>
+      <beneficiaire>
+        <nom_beneficiaire></nom_beneficiaire>
+        <prenom_beneficiaire></prenom_beneficiaire>
+        <nom_mari_beneficiaire></nom_mari_beneficiaire>
+        <jour_naiss_beneficiaire></jour_naiss_beneficiaire>
+        <mois_naiss_beneficiaire></mois_naiss_beneficiaire>
+        <ann_naiss_beneficiaire></ann_naiss_beneficiaire>
+        <NSSI_beneficiaire></NSSI_beneficiaire>
+        <cle_NSSI_beneficiaire></cle_NSSI_beneficiaire>
+        <num_autre_regime_ben></num_autre_regime_ben>
+      </beneficiaire>
+		<dossier_participant>
+			<ref_dossier_participant>AA BBB</ref_dossier_participant>
+			<NSSI_participant_dossier></NSSI_participant_dossier>
+			<civilite_participant></civilite_participant>
+			<prenom_participant></prenom_participant>
+			<nom_participant></nom_participant>
+			<nom_mari_participant></nom_mari_participant>
+			<jour_naiss_participant></jour_naiss_participant>
+			<mois_naiss_participant></mois_naiss_participant>
+			<ann_naiss_participant></ann_naiss_participant>
+			<date_naiss_participant></date_naiss_participant>
+			<jour_dc></jour_dc>
+			<mois_dc></mois_dc>
+			<ann_dc></ann_dc>
+			<jour_cessation_act></jour_cessation_act>
+			<mois_cessation_act></mois_cessation_act>
+			<ann_cessation_act></ann_cessation_act>
+			<mois_effet_retraite></mois_effet_retraite>
+			<ann_effet_retraite></ann_effet_retraite>
+			<objet_RCV></objet_RCV>
+			<presence_Ia>IA</presence_Ia>
+			<cle_NSSI_participant></cle_NSSI_participant>
+			<num_autre_regime_part></num_autre_regime_part>
+		</dossier_participant>
+      <carriere>
+        <date_valeur_pts></date_valeur_pts>
+        <valeur_ann_pts></valeur_ann_pts>
+        <nb_tot_pts_arrco></nb_tot_pts_arrco>
+        <nb_tot_pts_tb></nb_tot_pts_tb>
+        <nb_tot_pts_tc></nb_tot_pts_tc>
+        <mt_tot_arrco></mt_tot_arrco>
+        <mt_tot_agirc></mt_tot_agirc>
+        <ligne_carriere>
+          <raison_sociale></raison_sociale>
+          <nature_activite></nature_activite>
+          <nb_pts_arrco_ligne></nb_pts_arrco_ligne>
+          <nb_pts_tb_ligne></nb_pts_tb_ligne>
+          <nb_pts_tc_ligne></nb_pts_tc_ligne>
+          <date_debut_periode></date_debut_periode>
+          <date_fin_periode></date_fin_periode>
+        </ligne_carriere>
+      </carriere>
+      <carriere_invalidite>
+        <annee_arrco></annee_arrco>
+        <libelle_info_arrco></libelle_info_arrco>
+        <nb_pts_arrco_invalidite></nb_pts_arrco_invalidite>
+        <tx_arrco></tx_arrco>
+        <annee_tc></annee_tc>
+        <nb_pts_tc_invalidite></nb_pts_tc_invalidite>
+        <libelle_info_tc></libelle_info_tc>
+        <tx_tc></tx_tc>
+        <annee_agirc></annee_agirc>
+        <nb_pts_agirc_invalidite></nb_pts_agirc_invalidite>
+        <libelle_info_agirc></libelle_info_agirc>
+        <tx_agirc></tx_agirc>
+      </carriere_invalidite>
+      <droit>
+        <mt_brut_ann_arrco_droit></mt_brut_ann_arrco_droit>
+        <mt_brut_ann_agirc_droit></mt_brut_ann_agirc_droit>
+        <nb_pts_arrco_droit></nb_pts_arrco_droit>
+        <nb_pts_agirc_droit></nb_pts_agirc_droit>
+        <libelle_retraite></libelle_retraite>
+        <critere_minoration></critere_minoration>
+        <type_pension_droit></type_pension_droit>
+        <mt_taux_mino></mt_taux_mino>
+        <date_effet_mino></date_effet_mino>
+      </droit>
+		<signature>
+			<nom_institution/>
+			<prenom_dest_sign/>
+			<nom_dest_sign/>
+			<ref_dossier_sign/>
+			<libelle_signature>Le service retraite</libelle_signature>
+		</signature>
+      <RDV>
+        <ligne_adresse1_RDV></ligne_adresse1_RDV>
+        <ligne_adresse2_RDV></ligne_adresse2_RDV>
+        <ligne_adresse3_RDV></ligne_adresse3_RDV>
+        <ligne_adresse4_RDV></ligne_adresse4_RDV>
+        <ligne_adresse5_RDV></ligne_adresse5_RDV>
+        <ligne_adresse6_RDV></ligne_adresse6_RDV>
+        <code_postal_RDV></code_postal_RDV>
+        <localite_RDV></localite_RDV>
+        <date_RDV></date_RDV>
+        <heure_RDV></heure_RDV>
+      </RDV>
+      <saisie_libre>
+        <bloc_libre1></bloc_libre1>
+        <bloc_libre2></bloc_libre2>
+        <bloc_libre3></bloc_libre3>
+      </saisie_libre>
+      <PRC_demande>
+        <date_demande>20/08/2016</date_demande>
+        <date_reception>20/08/2016</date_reception>
+        <nature_demande>[de retraite complémentaire]</nature_demande>
+        <civilite>Madame</civilite>
+        <nom>TARTEMPION</nom>
+        <type_pension_demandeprc>[et Agirc]</type_pension_demandeprc>
+        <date_effet></date_effet>
+        <date_limite_reponse></date_limite_reponse>
+        <date_proch_contact></date_proch_contact>
+        <date_envoi_prec></date_envoi_prec>
+        <nature_demande_prec>NATURE DEMANDE PREC</nature_demande_prec>
+        <type_dossier></type_dossier>
+        <type_org_reception></type_org_reception>
+        <nom_receptionniste_dmd>NOM RECEPTIONNISTE DEMANDE</nom_receptionniste_dmd>
+        <libelle_per_car></libelle_per_car>
+        <libelle_signe></libelle_signe>
+        <libelle_PJ></libelle_PJ>
+        <libelle_variable></libelle_variable>
+        <libelle_recu></libelle_recu>
+        <libelle_pension_regime>[libellé pension régime]</libelle_pension_regime>
+        <libelle_montant></libelle_montant>
+        <libelle_liste_doc></libelle_liste_doc>
+        <libelle_demande>[demande non vide]</libelle_demande>
+        <libelle_RCV>[RCV non Vide]</libelle_RCV>
+        <libelle_liste_PJ>[les pièces justificatives suivantes]</libelle_liste_PJ>
+        <libelle_reconnu></libelle_reconnu>
+        <libelle_car_a_val>[car a val non vide]</libelle_car_a_val>
+        <code_annulation></code_annulation>
+        <indicateur_inc></indicateur_inc>
+      </PRC_demande>
+      <PRC_carval>
+        <situation></situation>
+        <activite_nature_periode></activite_nature_periode>
+        <mt_brut_ann_arrco></mt_brut_ann_arrco>
+        <mt_brut_ann_agirc_carval></mt_brut_ann_agirc_carval>
+      </PRC_carval>
+      <PRC_notification>
+        <identite_notification></identite_notification>
+      </PRC_notification>
+    </METIER>
+  </DOCUMENT>
+</xml>
+
