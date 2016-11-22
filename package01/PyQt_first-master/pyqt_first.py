@@ -2,6 +2,7 @@ from __future__ import division
 import sys
 from PyQt4 import QtCore, QtGui, uic
 
+
 qtCreatorFile = "tax_calc.ui" # Enter file here.
 
 Ui_MainWindow, QtBaseClass = uic.loadUiType(qtCreatorFile)
